@@ -1,0 +1,22 @@
+label {
+    color: #1abc9c;
+    position: relative;
+    top: -60PX;
+    transition: top 0.5s;
+}
+
+input:not(:placeholder-shown) + label{
+    top: -82px;
+
+
+}
+
+.form-control:focus
+{
+    box-shadow: 0 0 0 0rem  !important;
+}
+.btn-main
+{
+    background-color: #1abc9c !important;
+    color: #fff !important;
+}

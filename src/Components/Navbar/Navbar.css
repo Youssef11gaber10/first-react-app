@@ -1,0 +1,13 @@
+.color
+{
+    background-color: #2C3E51;
+}
+
+element.style {
+}
+
+.navbar-nav .nav-link.active
+{
+   background-color: #1abc9c; 
+   border-radius:10px;
+}
